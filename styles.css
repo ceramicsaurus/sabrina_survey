@@ -1,0 +1,24 @@
+body {
+    background: rgb(3,48,57);
+    background: linear-gradient(0deg, rgba(3,48,57,1) 0%, rgba(6,56,66,1) 9%, rgba(18,65,75,1) 24%, rgba(41,106,120,1) 43%, rgba(74,143,157,1) 66%, rgba(95,172,188,1) 86%);
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  input {
+    background-color: #b8eaf8;
+    padding: 3px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    margin-top: 30px;
+  }
+  
+  #jelly {
+    font-size: 50px;
+  }
